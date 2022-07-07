@@ -2,7 +2,7 @@
 
 ## HOC
 
-The main goal of this project is to format the date and time of publication depending on the following conditions:
+The main goal of this project is to work with HOC. I use it to make dates of publications look prettier depending on the following conditions:
 
 - X minutes ago if less than an hour has passed
 - X hours ago if more than an hour but less than a day has passed
